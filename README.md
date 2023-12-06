@@ -1,0 +1,2 @@
+# DataAnalytics-Classification-Using-Spark
+Analysis of this data using the Logistic Regression algorithm was carried out to predict the possibility of depression in a person based on certain variables,"Gender", "Education Level", "Married","Salary Income", "Depressed". Using this model, we can gain insight into how certain variables may influence the prediction of an individual's likelihood of depression.
